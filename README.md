@@ -1,10 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400" align="right" alt="Ilustração">
 <h3>Olá! Eu sou o Luis Fernando👋</h3>
-
-  [![Meu Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://www.instagram.com/l7zfinessboy/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](mailto:luisinx333@gmail.com) 
+Tenho 16 anos e sou um entusiasta da tecnologia. Atualmente, estou dando meus primeiros passos no mundo da programação, focando os meus estudos no desenvolvimento web e na construção de interfaces para a internet.
+ 
 
 
 <h2>🛠️Tecnologias que mais uso</h2>
