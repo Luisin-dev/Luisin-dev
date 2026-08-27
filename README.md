@@ -9,7 +9,6 @@
 
 
 
-![Luisin-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=Luisin-dev&show_icons=true&theme=tokyonight)
 ## Tecnologias que mais uso 
 
 <div style="display: inline_block"><br/>
